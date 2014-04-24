@@ -35,7 +35,7 @@ public class Snake {
             snake.add(r);
             y+=10;
         }
-        /* Si no come no crece: " LAS GALLINAS QUE ENTRAN POR LAS QUE SALEN " */
+        /* Si no come no crece*/
         crece=false;
     }
     public void draw(Graphics g)
